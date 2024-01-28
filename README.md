@@ -1,4 +1,4 @@
-# watercolor-willdlifemaps-video
+# watercolor-wildlifemaps-video
 Two ipynbs mentioned in my Watercolor Wildlife Book Maps video. 
 
 
